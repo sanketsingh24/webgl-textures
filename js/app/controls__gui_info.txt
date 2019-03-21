@@ -1,0 +1,9 @@
+<h3>Instructions</h3>
+
+<p>Full screen viewing (keyboard shortcut "F") is <strong>highly recommended</strong>.</p>
+
+<p>Rotate your field of view by dragging the mouse over the canvas. Tweak the lighting conditions and orbital speeds using the GUI sliders. See below for keyboard shortcuts.</p>
+
+<h3>Keyboard controls (general)</h3><strong>p</strong>: pause, <strong>f</strong>: full screen, <strong>w</strong>: move forwards, <strong>a</strong>: move left, <strong>s</strong>: move backwards, <strong>d</strong>: move right, <strong>r</strong>: reset camera
+
+<h3>Keyboard controls (snap to planet)</h3>
